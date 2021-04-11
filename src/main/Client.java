@@ -5,6 +5,7 @@ import message.ActualMessage;
 import message.ActualMessage.MessageType;
 import message.MessagePayload;
 
+// it means nothing, just a test
 import main.PeerInfo;
 import file.BlockReaderWriter;
 
